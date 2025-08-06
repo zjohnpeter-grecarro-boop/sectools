@@ -1,8 +1,7 @@
-<#
-This script is created by Gab for the benefit of ESS. The aim is to get basic info such as hostname,
-username, OS version, PC hardware make and installed AV and other applications as part of the attestation process. The output can be verified by the user 
-prior to submission to MISG. Use freely but ErnstGV will take no responsibility from any undesired effect. Thank you.
-#>
+# This script is created by Gab for the benefit of ESS. The aim is to get basic info such as hostname,
+# username, OS version, PC hardware make and installed AV and other applications as part of the attestation process. The output can be verified by the user 
+# prior to submission to MISG. Use freely but ErnstGV will take no responsibility from any undesired effect. Thank you.
+
 
 
 import datetime
